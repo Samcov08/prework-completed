@@ -1,0 +1,47 @@
+#first {
+    color: red
+}
+
+#second {
+    color: blue
+}
+
+#third {
+    color: green
+}
+
+#fourth {
+    font-size: 40px
+}
+
+#fifth {
+    font-size: 10px
+}
+
+#sixth {
+    text-align: center
+}
+
+#seventh {
+    font-weight: bold
+}
+
+#eighth {
+    font-family: gabriola
+}
+
+#ninth {
+    font-size: 40px;
+    color: orange;
+    font-weight: bold
+}
+
+p {
+    font-family: Comic Sans MS;
+}
+
+#styledImage {
+    border-style: dotted;
+    color: black;
+    border-width: 10px;
+}
